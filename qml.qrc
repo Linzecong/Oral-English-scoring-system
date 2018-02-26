@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GlobalVariable.js</file>
+        <file>StudentMain.qml</file>
+        <file>PracticePage.qml</file>
+        <file>ScorePage.qml</file>
+        <file>TeacherPage.qml</file>
+        <file>TeacherScorePage.qml</file>
+        <file>TestPage.qml</file>
+        <file>TestScorePage.qml</file>
+        <file>image/password.png</file>
+        <file>image/user.png</file>
+        <file>image/bg.jpg</file>
+    </qresource>
+</RCC>
